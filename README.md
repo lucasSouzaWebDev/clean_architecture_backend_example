@@ -16,4 +16,5 @@ An example project on how to use clean architecture concepts in a backend applic
  run **npm run dev** to start the server;
  
  ## Observation
- Currently the application is using user storage in memory, if you want to change it to database storage with PostgreSQL, just change the "index.ts" file on line 26 to "new RepositorioUsuarioPg"
+ - Currently the application is using user storage in memory, if you want to change it to database storage with PostgreSQL, just change the "index.ts" file on line 26 to "new RepositorioUsuarioPg";
+ - The project was developed in PT-BR only to accompany the course content;
